@@ -17,4 +17,4 @@ public class Realistic{
     }
         return arr[index_smallest];
     }   //method getSmallest
-}
+} //Realistic Class
